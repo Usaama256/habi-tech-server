@@ -1,0 +1,4 @@
+@base_url=http://localhost:5014/habitech.api
+@userId=1
+@action=0
+GET {{base_url}}/switchalllights/{{action}}/{{userId}}

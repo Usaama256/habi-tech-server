@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/index-ff6Ec5xR.js",
+      "PackagePath": "staticwebassets/assets/index-ff6Ec5xR.js"
+    },
+    {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/index-u3j04k-4.css",
+      "PackagePath": "staticwebassets/assets/index-u3j04k-4.css"
+    },
+    {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/lines-9Wv3RVYk.png",
+      "PackagePath": "staticwebassets/assets/lines-9Wv3RVYk.png"
+    },
+    {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/sketchy-RjEy_096.png",
+      "PackagePath": "staticwebassets/assets/sketchy-RjEy_096.png"
+    },
+    {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HabiTech.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HabiTech.props",
+      "PackagePath": "build\\HabiTech.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HabiTech.props",
+      "PackagePath": "buildMultiTargeting\\HabiTech.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HabiTech.props",
+      "PackagePath": "buildTransitive\\HabiTech.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

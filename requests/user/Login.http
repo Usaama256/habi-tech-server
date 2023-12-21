@@ -1,0 +1,19 @@
+@base_url=http://localhost:5014/habitech.api
+
+POST {{base_url}}/login
+Content-Type: application/json
+
+{
+    "Email": "sama.dev@habitech.iot",
+    "Pass": "!wa30~03dq#"
+}
+
+###
+
+POST {{base_url}}/login
+Content-Type: application/json
+
+{
+    "Email": "test.dev@habitech.iot",
+    "Pass": "03dq#~!wa30"
+}

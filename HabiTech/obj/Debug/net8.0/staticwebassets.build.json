@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "itC18scjnkSLmZKH2w7Wd/+aXLksLFoH3No5Ytt9QA0=",
+  "Hash": "KsxDxC2+gtq+GCzXj7Ti2p2i3b9qTe2g0T3qXh+XiFo=",
   "Source": "HabiTech",
   "BasePath": "_content/HabiTech",
   "Mode": "Default",
@@ -36,6 +36,25 @@
       "OriginalItemSpec": "wwwroot/404.html"
     },
     {
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-5ykCnRL1.js",
+      "SourceId": "HabiTech",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
+      "BasePath": "_content/HabiTech",
+      "RelativePath": "assets/index-5ykCnRL1.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-5ykCnRL1.js"
+    },
+    {
       "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-u3j04k-4.css",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
@@ -53,25 +72,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/index-u3j04k-4.css"
-    },
-    {
-      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-VhfR9MDT.js",
-      "SourceId": "HabiTech",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
-      "BasePath": "_content/HabiTech",
-      "RelativePath": "assets/index-VhfR9MDT.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-VhfR9MDT.js"
     },
     {
       "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/lines-9Wv3RVYk.png",

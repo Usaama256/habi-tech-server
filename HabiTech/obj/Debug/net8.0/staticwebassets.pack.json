@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/404.html",
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/404.html",
       "PackagePath": "staticwebassets/404.html"
     },
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/index-ff6Ec5xR.js",
-      "PackagePath": "staticwebassets/assets/index-ff6Ec5xR.js"
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-VhfR9MDT.js",
+      "PackagePath": "staticwebassets/assets/index-VhfR9MDT.js"
     },
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/index-u3j04k-4.css",
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-u3j04k-4.css",
       "PackagePath": "staticwebassets/assets/index-u3j04k-4.css"
     },
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/lines-9Wv3RVYk.png",
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/lines-9Wv3RVYk.png",
       "PackagePath": "staticwebassets/assets/lines-9Wv3RVYk.png"
     },
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/sketchy-RjEy_096.png",
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/sketchy-RjEy_096.png",
       "PackagePath": "staticwebassets/assets/sketchy-RjEy_096.png"
     },
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/habi-tech.png",
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/habi-tech.png",
       "PackagePath": "staticwebassets/habi-tech.png"
     },
     {
-      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/index.html",
+      "Id": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {

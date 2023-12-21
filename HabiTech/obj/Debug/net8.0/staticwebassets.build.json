@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Sbh8HgUr7RgoGEyHJFissQ6C2K/Z9UWnHqV8hrywnLM=",
+  "Hash": "itC18scjnkSLmZKH2w7Wd/+aXLksLFoH3No5Ytt9QA0=",
   "Source": "HabiTech",
   "BasePath": "_content/HabiTech",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HabiTech/wwwroot",
       "Source": "HabiTech",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/404.html",
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/404.html",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "RelativePath": "404.html",
       "AssetKind": "All",
@@ -36,29 +36,10 @@
       "OriginalItemSpec": "wwwroot/404.html"
     },
     {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/index-ff6Ec5xR.js",
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-u3j04k-4.css",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
-      "BasePath": "_content/HabiTech",
-      "RelativePath": "assets/index-ff6Ec5xR.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-ff6Ec5xR.js"
-    },
-    {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/index-u3j04k-4.css",
-      "SourceId": "HabiTech",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "RelativePath": "assets/index-u3j04k-4.css",
       "AssetKind": "All",
@@ -74,10 +55,29 @@
       "OriginalItemSpec": "wwwroot/assets/index-u3j04k-4.css"
     },
     {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/lines-9Wv3RVYk.png",
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/index-VhfR9MDT.js",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
+      "BasePath": "_content/HabiTech",
+      "RelativePath": "assets/index-VhfR9MDT.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-VhfR9MDT.js"
+    },
+    {
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/lines-9Wv3RVYk.png",
+      "SourceId": "HabiTech",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "RelativePath": "assets/lines-9Wv3RVYk.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/assets/lines-9Wv3RVYk.png"
     },
     {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/assets/sketchy-RjEy_096.png",
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/assets/sketchy-RjEy_096.png",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "RelativePath": "assets/sketchy-RjEy_096.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/assets/sketchy-RjEy_096.png"
     },
     {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/habi-tech.png",
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/habi-tech.png",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "RelativePath": "habi-tech.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/habi-tech.png"
     },
     {
-      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/index.html",
+      "Identity": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/index.html",
       "SourceId": "HabiTech",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "ContentRoot": "/home/sama/Web/habi-tech/habi-tech_server/HabiTech/wwwroot/",
       "BasePath": "_content/HabiTech",
       "RelativePath": "index.html",
       "AssetKind": "All",

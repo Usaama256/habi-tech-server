@@ -23,4 +23,5 @@ UPDATE device SET status='ON' WHERE type_id=2 and user_id=1;
 
 -- Switch on all light 
 UPDATE device SET status='OFF' WHERE type_id=2 and user_id=1;
+
 --- Lights ---

@@ -7,17 +7,20 @@ public class DBConnection{
 
 	 private MySqlConnection Connection; 
 	 private string  Server { get; }
+	 
+	 private int Port { get; }
 	private string DatabaseName { get; }
 	private string User { get; }
 	private string Password { get; }
-
+	
 	public DBConnection() {
-		Server = "localhost";
-		User = "root";
+		Server = "habi-tech-do-user-15423564-0.c.db.ondigitalocean.com";
+		Port = 25060;
+		User = "doadmin";
 		DatabaseName = "habi-tech_db";
-		Password = "thamyn@260802";
+		Password = "AVNS_AvDi5SOe7sSt5YW4tfi";
 
-		string ConnStr = string.Format("SERVER={0}; DATABASE={1}; UID={2}; PASSWORD={3}", Server, DatabaseName, User, Password);
+		string ConnStr = string.Format("SERVER={0}; Port={1}; DATABASE={2}; UID={3}; PASSWORD={4}", Server, Port, DatabaseName, User, Password);
 		
 		Connection = new MySqlConnection(ConnStr);
 	}

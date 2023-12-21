@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N6rP0QBswFX3jGomKy27L7XnGGZ6qk3UdRXBjrgAzDY=",
+  "Hash": "Sbh8HgUr7RgoGEyHJFissQ6C2K/Z9UWnHqV8hrywnLM=",
   "Source": "HabiTech",
   "BasePath": "_content/HabiTech",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/sketchy-RjEy_096.png"
+    },
+    {
+      "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/habi-tech.png",
+      "SourceId": "HabiTech",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/",
+      "BasePath": "_content/HabiTech",
+      "RelativePath": "habi-tech.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/habi-tech.png"
     },
     {
       "Identity": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/index.html",

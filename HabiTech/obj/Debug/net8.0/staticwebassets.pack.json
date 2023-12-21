@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/assets/sketchy-RjEy_096.png"
     },
     {
+      "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/habi-tech.png",
+      "PackagePath": "staticwebassets/habi-tech.png"
+    },
+    {
       "Id": "/home/sama/DotNet/Projects/habi-tech_server/HabiTech/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
